@@ -18,7 +18,7 @@ Your program should expect JSON representing a two dimensional data frame. It wi
 ## Output
 Your program should transform the input into a single JSON object mapping variable names to lists of values.
 
-For input type (A), any variables that are missing in a row should be [imputed](https://en.wikipedia.org/wiki/Imputation_(statistics\)) with null.
+For input type (A), any variables that are missing in a row should be [imputed](https://en.wikipedia.org/wiki/Imputation_(statistics)) with null.
 
     '{ "a": [1,null,5], "b": [2,3,null], "c": [null,4,6] }'
 ##Optional Extensions

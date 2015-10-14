@@ -1,4 +1,10 @@
 # Data Engineering Recombinator Challenge
+
+*If you stumbled on this challenge and enjoyed trying it, feel
+free to send a note over to __robk@avant.com__ and talk directly to the director
+of data science. We're constantly chatting with awesome developers, even
+if you're purely into open source, and if you think playing with data is cool we think you're cool.*
+
 ## Context
 Being able to easily manipulate data (aka munging) is an important part of our day-to-day here at Avant. Please write a small [CLI tool](https://en.wikipedia.org/wiki/Command-line_interface) that works as described below. You may use the language of your choice.
 ## Input
